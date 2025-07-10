@@ -1,0 +1,29 @@
+names:
+- Aluminium foil
+- Bottle
+- Bottle cap
+- Broken glass
+- Can
+- Carton
+- Cigarette
+- Cup
+- Lid
+- Other litter
+- Other plastic
+- Paper
+- Plastic bag - wrapper
+- Plastic container
+- Pop tab
+- Straw
+- Styrofoam piece
+- Unlabeled litter
+nc: 18
+roboflow:
+  license: CC BY 4.0
+  project: taco-mqclx
+  url: https://universe.roboflow.com/divya-lzcld/taco-mqclx/dataset/3
+  version: 3
+  workspace: divya-lzcld
+test: ../test/images
+train: ../train/images
+val: ../valid/images
